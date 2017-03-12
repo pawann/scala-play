@@ -1,4 +1,4 @@
-[0m[[0minfo[0m] [0mUpdating {file:/C:/DEV/Coursera/Scala/recfun/recfun/project/}recfun-build...[0m
+[0m[[0minfo[0m] [0mUpdating {file:/Users/Pawan/Development/workspaces/coursera/scala-play/recfun/project/}recfun-build...[0m
 [0m[[0mdebug[0m] [0m:: resolving dependencies :: default#recfun-build;0.1-SNAPSHOT[0m
 [0m[[0mdebug[0m] [0m	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool][0m
 [0m[[0mdebug[0m] [0m	validate = true[0m
@@ -2880,21 +2880,21 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.9!apply-macro.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#jline;2.10.5!jline.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 1977ms :: artifacts dl 39ms[0m
-[0m[[0mdebug[0m] [0m	report for default#recfun-build;0.1-SNAPSHOT compile produced in C:\DEV\Coursera\Scala\recfun\recfun\project\target\resolution-cache\reports\default-recfun-build-compile.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#recfun-build;0.1-SNAPSHOT runtime produced in C:\DEV\Coursera\Scala\recfun\recfun\project\target\resolution-cache\reports\default-recfun-build-runtime.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#recfun-build;0.1-SNAPSHOT test produced in C:\DEV\Coursera\Scala\recfun\recfun\project\target\resolution-cache\reports\default-recfun-build-test.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#recfun-build;0.1-SNAPSHOT provided produced in C:\DEV\Coursera\Scala\recfun\recfun\project\target\resolution-cache\reports\default-recfun-build-provided.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#recfun-build;0.1-SNAPSHOT optional produced in C:\DEV\Coursera\Scala\recfun\recfun\project\target\resolution-cache\reports\default-recfun-build-optional.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#recfun-build;0.1-SNAPSHOT compile-internal produced in C:\DEV\Coursera\Scala\recfun\recfun\project\target\resolution-cache\reports\default-recfun-build-compile-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#recfun-build;0.1-SNAPSHOT runtime-internal produced in C:\DEV\Coursera\Scala\recfun\recfun\project\target\resolution-cache\reports\default-recfun-build-runtime-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#recfun-build;0.1-SNAPSHOT test-internal produced in C:\DEV\Coursera\Scala\recfun\recfun\project\target\resolution-cache\reports\default-recfun-build-test-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#recfun-build;0.1-SNAPSHOT plugin produced in C:\DEV\Coursera\Scala\recfun\recfun\project\target\resolution-cache\reports\default-recfun-build-plugin.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#recfun-build;0.1-SNAPSHOT sources produced in C:\DEV\Coursera\Scala\recfun\recfun\project\target\resolution-cache\reports\default-recfun-build-sources.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#recfun-build;0.1-SNAPSHOT docs produced in C:\DEV\Coursera\Scala\recfun\recfun\project\target\resolution-cache\reports\default-recfun-build-docs.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#recfun-build;0.1-SNAPSHOT pom produced in C:\DEV\Coursera\Scala\recfun\recfun\project\target\resolution-cache\reports\default-recfun-build-pom.xml[0m
-[0m[[0mdebug[0m] [0m	report for default#recfun-build;0.1-SNAPSHOT scala-tool produced in C:\DEV\Coursera\Scala\recfun\recfun\project\target\resolution-cache\reports\default-recfun-build-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (1977ms resolve - 39ms download)[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 1029ms :: artifacts dl 50ms[0m
+[0m[[0mdebug[0m] [0m	report for default#recfun-build;0.1-SNAPSHOT compile produced in /Users/Pawan/Development/workspaces/coursera/scala-play/recfun/project/target/resolution-cache/reports/default-recfun-build-compile.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#recfun-build;0.1-SNAPSHOT runtime produced in /Users/Pawan/Development/workspaces/coursera/scala-play/recfun/project/target/resolution-cache/reports/default-recfun-build-runtime.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#recfun-build;0.1-SNAPSHOT test produced in /Users/Pawan/Development/workspaces/coursera/scala-play/recfun/project/target/resolution-cache/reports/default-recfun-build-test.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#recfun-build;0.1-SNAPSHOT provided produced in /Users/Pawan/Development/workspaces/coursera/scala-play/recfun/project/target/resolution-cache/reports/default-recfun-build-provided.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#recfun-build;0.1-SNAPSHOT optional produced in /Users/Pawan/Development/workspaces/coursera/scala-play/recfun/project/target/resolution-cache/reports/default-recfun-build-optional.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#recfun-build;0.1-SNAPSHOT compile-internal produced in /Users/Pawan/Development/workspaces/coursera/scala-play/recfun/project/target/resolution-cache/reports/default-recfun-build-compile-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#recfun-build;0.1-SNAPSHOT runtime-internal produced in /Users/Pawan/Development/workspaces/coursera/scala-play/recfun/project/target/resolution-cache/reports/default-recfun-build-runtime-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#recfun-build;0.1-SNAPSHOT test-internal produced in /Users/Pawan/Development/workspaces/coursera/scala-play/recfun/project/target/resolution-cache/reports/default-recfun-build-test-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#recfun-build;0.1-SNAPSHOT plugin produced in /Users/Pawan/Development/workspaces/coursera/scala-play/recfun/project/target/resolution-cache/reports/default-recfun-build-plugin.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#recfun-build;0.1-SNAPSHOT sources produced in /Users/Pawan/Development/workspaces/coursera/scala-play/recfun/project/target/resolution-cache/reports/default-recfun-build-sources.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#recfun-build;0.1-SNAPSHOT docs produced in /Users/Pawan/Development/workspaces/coursera/scala-play/recfun/project/target/resolution-cache/reports/default-recfun-build-docs.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#recfun-build;0.1-SNAPSHOT pom produced in /Users/Pawan/Development/workspaces/coursera/scala-play/recfun/project/target/resolution-cache/reports/default-recfun-build-pom.xml[0m
+[0m[[0mdebug[0m] [0m	report for default#recfun-build;0.1-SNAPSHOT scala-tool produced in /Users/Pawan/Development/workspaces/coursera/scala-play/recfun/project/target/resolution-cache/reports/default-recfun-build-scala-tool.xml[0m
+[0m[[0mdebug[0m] [0m	resolve done (1029ms resolve - 50ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m
 [0m[[33mwarn[0m] [0mThere may be incompatibilities among your library dependencies.[0m
 [0m[[33mwarn[0m] [0mHere are some of the libraries that were evicted:[0m
