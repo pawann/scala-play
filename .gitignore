@@ -1,5 +1,8 @@
 .DS_Store
 .metadata/
+**/.cache-main
+**/.settings
+**/.worksheet
 **/target/
 **/*.class
 **/*.cache
